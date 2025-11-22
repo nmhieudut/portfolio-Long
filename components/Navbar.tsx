@@ -39,7 +39,7 @@ const Navbar: React.FC = () => {
             <a href="#home" className="flex items-center gap-2">
               <Camera className="h-8 w-8 text-white" strokeWidth={1.5} />
               <span className="font-serif text-2xl text-white font-medium tracking-wider">
-                LONG NHO
+                Hoang Long
               </span>
             </a>
           </div>

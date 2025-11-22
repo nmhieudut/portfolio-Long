@@ -20,7 +20,7 @@ const App: React.FC = () => {
       
       <footer className="py-8 border-t border-stone-800 text-center">
         <p className="text-stone-500 text-xs tracking-widest uppercase">
-          © {new Date().getFullYear()} Long Nho Photography. All rights reserved.
+          © {new Date().getFullYear()} Hoang Long Photography. All rights reserved.
         </p>
       </footer>
     </div>

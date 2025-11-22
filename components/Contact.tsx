@@ -63,7 +63,7 @@ const Contact: React.FC = () => {
                     type="text" 
                     id="name"
                     className="w-full bg-stone-950 border border-stone-800 text-white px-4 py-3 focus:outline-none focus:border-gold-accent/50 transition-colors rounded-sm"
-                    placeholder="Long Nho"
+                    placeholder="Hoang Long"
                   />
                 </div>
                 <div>

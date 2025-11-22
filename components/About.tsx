@@ -14,7 +14,7 @@ const About: React.FC = () => {
               <div className="absolute inset-0 border border-gold-accent/30 translate-x-4 translate-y-4 transition-transform duration-500 group-hover:translate-x-2 group-hover:translate-y-2"></div>
               <img 
                 src="https://scontent.fdad3-5.fna.fbcdn.net/v/t39.30808-6/492492983_1903635797119729_4848279075291769297_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=WbPGkU921VUQ7kNvwElPtHJ&_nc_oc=Adn3DN1JxPO2ues_uwcKBXTRgL_rVVpJzM4x0gyQOl-4WG0emUZfbES0Lz4LogEIy1o&_nc_zt=23&_nc_ht=scontent.fdad3-5.fna&_nc_gid=E9DoKYNvElAli9gzf1x-vA&oh=00_Afh9KgHmLbesbmxXz52mSX-5Ujh6T3KD8jj7mC8rGJqLiA&oe=6927174D" 
-                alt="Long Nho Portrait" 
+                alt="Hoang Long Portrait" 
                 className="w-full h-full object-cover relative z-10 grayscale hover:grayscale-0 transition-all duration-700"
               />
             </div>
@@ -24,7 +24,7 @@ const About: React.FC = () => {
           <div className="order-1 md:order-2 text-center md:text-left">
             <p className="text-gold-accent text-sm uppercase tracking-widest mb-2">Photographer tại Đà Nẵng</p>
             <h2 className="font-serif text-4xl md:text-5xl text-white mb-6">
-              Long Nho
+              Hoang Long
             </h2>
             <div className="w-16 h-px bg-stone-700 mb-8 mx-auto md:mx-0"></div>
             

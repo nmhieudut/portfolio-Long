@@ -28,7 +28,7 @@ const Hero: React.FC = () => {
           </span>
         </h1>
         <p className="text-stone-300 font-light text-lg md:text-xl max-w-2xl mx-auto mb-12 leading-relaxed">
-          Tôi là Long Nho. Chuyên bắt trọn nhịp sống về đêm, định hình phong cách cá nhân và tôn vinh vẻ đẹp Á Đông qua ống kính.
+          Tôi là Hoàng Long. Chuyên bắt trọn nhịp sống về đêm, định hình phong cách cá nhân và tôn vinh vẻ đẹp Á Đông qua ống kính.
         </p>
         <div className="flex flex-col md:flex-row justify-center gap-4">
           <a 
